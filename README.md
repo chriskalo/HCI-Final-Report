@@ -115,15 +115,14 @@
 
 ## Βιβλιογραφία και σύνδεσμοι σε σχετικές εργασίες
 * [ΕΛΣΤΑΤ](http://www.statistics.gr/)
-
-
-
-
-
-
-
-
-
-
-
-
+* [w3school](https://www.w3schools.com/default.asp)
+* [javascript](https://www.javascript.com/)
+* [wlearn](https://www.wlearn.gr/index.php/topmenu-118)
+* [Academy of Code](https://www.academy-of-code.com/el/)
+* [CodePen](https://codepen.io/)
+* [Στατιστικά πρώτου γραφήματος ΕΛΣΤΑΤ](https://www.statistics.gr/el/statistics/-/publication/SPO09/2017)
+* [Κώδικας πρώτου γραφήματος CodePen](https://codepen.io/belkins/pen/KNOapK)
+* [Στατιστικά δεύτερου γραφήματος ΕΛΣΤΑΤ](http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=345824&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el)
+* [Κώδικας δεύτερου γραφήματος CodePen](https://codepen.io/alingam/pen/rVjgEj)
+* [Στατιστικά τρίτου γραφήματος ΕΛΣΤΑΤ](http://www.statistics.gr/documents/20181/44f27645-626c-4968-92c7-aa47a6c66c92)
+* [Κώδικας τρίτου γραφήματος CodePen](https://codepen.io/jgarciaruiz/pen/WjMdVw)
