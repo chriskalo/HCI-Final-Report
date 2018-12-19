@@ -90,11 +90,11 @@
 ![κώδικας για το mouseover](hxos4.png)
 - [x] Όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας ή περιοχή που περιλαμβάνει γραπτή πληροφορία (π.χ. κάποιο τμήμα γραφήματος), να ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-speech).
 #### Κώδικας που προστέθηκε
-![κώδικας για το mouseover](responsive5.png)
+![κώδικας για το mouseover](responsive1.png)
 ![κώδικας για το mouseover](responsive2.png)
 - [x] Εφαρμόστε responsive design στη σελίδα και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων (π.χ. Bootstrap).
 #### Κώδικας που προστέθηκε για responsive design
-![responsive](responsive1.png)
+![responsive](responsive5.png)
 #### Το αποτέλεσμα :
 ![responsive](responsive.gif)
 ### Παραδοτέο 2
