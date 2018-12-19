@@ -92,6 +92,12 @@
 #### Κώδικας που προστέθηκε
 ![κώδικας για το mouseover](responsive1.png)
 ![κώδικας για το mouseover](responsive2.png)
+- [x] Εφαρμόστε responsive design στη σελίδα και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων (π.χ. Bootstrap).
+#### Κώδικας που προστέθηκε για responsive design
+![responsive](responsive1.png)
+#### Το αποτέλεσμα :
+![responsive](responsive.gif)
+
 
 
 
