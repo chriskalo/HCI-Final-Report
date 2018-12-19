@@ -45,5 +45,5 @@
 
 δ. Για το τέταρτο ερώτημα βρήκα ότι υπάρχει η βιβλιοθήκη responsive voice την οποία έκανα include στο index.html αρχείο. Αφού την έκανα include χρησιμοποίησα τις ιδιότητες onmouseover και onmouseleave με τις οποίες καλούσα τις συναρτήσεις : 
 
-*responsiveVoice.speaκ();
-*responsiveVoice.cancel();
+* responsiveVoice.speaκ();
+* responsiveVoice.cancel();
